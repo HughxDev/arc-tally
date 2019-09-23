@@ -1,0 +1,14 @@
+{
+  "name": "arc-tally",
+  "version": "1.0.0",
+  "description": "Tallies Arc.dev contract earnings",
+  "main": "index.js",
+  "repository": "https://github.com/hguiney/arc-tally.git",
+  "author": {
+    "name": "Hugh Guiney",
+    "email": "hello@hughguiney.com",
+    "url": "https://hughx.com"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
