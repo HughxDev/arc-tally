@@ -10,5 +10,11 @@
     "url": "https://hughx.com"
   },
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-hughx": "^0.0.2",
+    "eslint-plugin-import": "^2.18.2"
+  }
 }
